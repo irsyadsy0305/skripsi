@@ -1,0 +1,2 @@
+# skripsi
+data mining apriori
